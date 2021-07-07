@@ -1,0 +1,14 @@
+.uptodate
+.pkg
+.cache
+*.output
+.swp
+vendor/
+/debug-agent
+/kubectl-debug
+dist/
+.vscode/
+.idea/
+.vagrant/
+*.log
+./configs
